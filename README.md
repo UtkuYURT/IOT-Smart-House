@@ -1,9 +1,9 @@
 # IOT-Smart-House
 
-### PROJEYİ HAZRIRLAYANLAR:
-UTKU YURT 213405075,
-İBRAHİM ETHEM MACİT 213405050,
-MUHAMMED ABDÜLBAKİ ÇEKEN 213405023
+### PROJEYİ HAZIRLAYANLAR:
+UTKU YURT 213405075,  
+İBRAHİM ETHEM MACİT 213405050,  
+MUHAMMED ABDÜLBAKİ ÇEKEN 213405023  
 
 ### PROJENİN AMACI  
 Projemizin amacı, evdeki güvenlik ve kontrol sistemlerini bir araya getirerek, kullanıcının uzaktan evini izleyebilmesi ve kontrol edebilmesini sağlamaktır. ESP8266 NodeMCU ve Blynk uygulaması kullanılarak deprem, gaz kaçağı, su baskını ve hırsızlık gibi durumlarda anında bildirim alınabilmektedir. Ayrıca, evdeki lambaların uzaktan kontrolü de sağlanarak, ev otomasyonu konusunda kullanıcıya kolaylık sunulmuştur.
